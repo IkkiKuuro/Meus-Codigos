@@ -1,0 +1,11 @@
+{
+  "name": "api",
+  "version": "1.0.0",
+  "type": "module",
+  "description": "API for the project",
+  "main": "index.js",
+  "dependencies": {
+    "api": "file:",
+    "express": "^5.1.0"
+  }
+}
