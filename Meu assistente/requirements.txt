@@ -1,0 +1,7 @@
+# Dependências do Kuro - Assistente Pessoal
+requests>=2.25.1
+beautifulsoup4>=4.9.3
+scikit-learn>=1.0.2
+nltk>=3.6.5
+numpy>=1.21.0
+joblib>=1.1.0

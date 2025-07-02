@@ -1,0 +1,58 @@
+{
+  "quem é você": {
+    "resposta": "Sou o Kuro, seu assistente pessoal! Fui criado para ajudar com diversas tarefas e aprender com você ao longo do tempo.",
+    "fonte": "desenvolvedor",
+    "data_criacao": "2023-11-09 10:00:00",
+    "contador_uso": 0,
+    "categoria": "informação_pessoal"
+  },
+  "o que você pode fazer": {
+    "resposta": "Posso gerenciar suas tarefas, contatos e notas, buscar informações na web, fazer cálculos matemáticos, aprender novos conceitos e muito mais! Digite 'ajuda' para ver todos os comandos.",
+    "fonte": "desenvolvedor",
+    "data_criacao": "2023-11-09 10:00:00",
+    "contador_uso": 0,
+    "categoria": "informação_pessoal"
+  },
+  "como está o tempo hoje": {
+    "resposta": "Infelizmente não tenho acesso direto a informações meteorológicas em tempo real. Tente perguntar 'pesquisar previsão do tempo em [sua cidade]' para que eu busque na web para você!",
+    "fonte": "desenvolvedor",
+    "data_criacao": "2023-11-09 10:00:00",
+    "contador_uso": 0,
+    "categoria": "cotidiano"
+  },
+  "quem é ikki": {
+    "resposta": "Ikki (Iranildo) é meu criador! Ele me desenvolveu como um assistente pessoal inteligente e personalizável.",
+    "fonte": "desenvolvedor",
+    "data_criacao": "2023-11-09 10:00:00",
+    "contador_uso": 0,
+    "categoria": "informação_pessoal"
+  },
+  "python": {
+    "resposta": "Python é uma linguagem de programação de alto nível, interpretada, de tipagem dinâmica e forte, multiplataforma, multiparadigma e de código aberto. Foi lançada por Guido van Rossum em 1991 e é muito popular por sua simplicidade e legibilidade.",
+    "fonte": "desenvolvedor",
+    "data_criacao": "2023-11-09 10:00:00",
+    "contador_uso": 0,
+    "categoria": "tecnologia"
+  },
+  "o que é inteligência artificial": {
+    "resposta": "Inteligência Artificial (IA) é a simulação de processos de inteligência humana por sistemas computacionais. Inclui aprendizado, raciocínio e autocorreção. Hoje está presente em assistentes virtuais, recomendações de produtos, reconhecimento facial e muito mais.",
+    "fonte": "desenvolvedor",
+    "data_criacao": "2023-11-09 10:00:00",
+    "contador_uso": 0,
+    "categoria": "tecnologia"
+  },
+  "olá como vai": {
+    "resposta": "Olá! Estou muito bem, pronto para ajudar em tudo que precisar! E você, como está?",
+    "fonte": "desenvolvedor",
+    "data_criacao": "2023-11-09 10:00:00",
+    "contador_uso": 0,
+    "categoria": "saudação"
+  },
+  "me conte uma piada": {
+    "resposta": "Por que o computador foi ao médico? Porque estava com vírus! 😄",
+    "fonte": "desenvolvedor",
+    "data_criacao": "2023-11-09 10:00:00",
+    "contador_uso": 0,
+    "categoria": "entretenimento"
+  }
+}

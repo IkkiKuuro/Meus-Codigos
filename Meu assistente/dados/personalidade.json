@@ -1,0 +1,12 @@
+{
+  "tracos": {
+    "humor": "neutro",
+    "formalidade": "casual",
+    "emoji": true,
+    "verbosidade": "concisa",
+    "proatividade": 0.3,
+    "adaptabilidade": 0.7
+  },
+  "nome_usuario": "Iranildo",
+  "preferencia_nome_usuario": "Ikki"
+}
